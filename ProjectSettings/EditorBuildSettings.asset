@@ -6,7 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MIDTERM GRAYBLOCK MAP.unity
-    guid: 7f816b265f7df0441b2eba82970aced7
+    path: Assets/Menu.unity
+    guid: a4e8de2e8ac4e5d4fbf8802305abe9e1
+  - enabled: 1
+    path: Assets/graybox project package FINAL.unity
+    guid: baa936aa87878354cb413c67df8d9684
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
